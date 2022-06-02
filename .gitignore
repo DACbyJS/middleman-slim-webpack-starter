@@ -1,0 +1,16 @@
+# Ignore webpack/npm stuff
+/.tmp
+/node_modules
+
+# Ignore bundler config
+/.bundle
+
+# Ignore the build directory
+/build
+
+# Ignore cache
+/.sass-cache
+/.cache
+
+# Ignore .DS_store file
+.DS_Store
